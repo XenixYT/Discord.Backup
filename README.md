@@ -15,7 +15,7 @@
 
 
 ## Support + Community
-[Discord Server](https://chasa.wtf/discord) | [Telegram Chat](https://chasa.wtf/telegram) | [Website](https://chasa.wtf/)
+[Discord Server](https://discord.gg/NW39fY3pER) | [Website](https://icy.sell.app/)
 
 
 ## Disclaimer 
@@ -53,7 +53,7 @@ You will have to do this yourself:
 
 ## Installation
 ### Using Binary EXE (Easier)
-1. Download the zip for your Operating System from [Releases](https://github.com/itschasa/Discord-Backup/releases)
+1. Download the zip for your Operating System from [Releases](https://github.com/XenixYT/Discord.Backup/releases)
 2. Unzip the contents into a folder
 3. Run the exe
 
